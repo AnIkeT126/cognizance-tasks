@@ -13,4 +13,5 @@ Also, a major change was that we have to get  a opearotr runnnig as user wants a
 
 And after such few changes the **code was compiled successfully**.
 
-[**OUTPUT**]()
+[**OUTPUT-1**](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-2/OUTPUT-1.png)
+[**OUTPUT-2**](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-2/OUTPUT-2.png)

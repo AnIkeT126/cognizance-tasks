@@ -22,3 +22,4 @@
  Similarly a lot many commands were used, where to unlock each level you need a passwrod you found in the level before that , use human intelligence like file size to check which file amongst a million could possibly contain your **password**. *THIS MIGHT SAVE YOUR HOURS AFTER LEVEL 6*
  
  
+[Here](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-12/pass.txt) are the passwords.

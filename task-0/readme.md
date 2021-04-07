@@ -3,4 +3,4 @@ So, this task was about installing Ubuntu in my local system. Luckily for me, I 
 After spending some time on what to do and more specifically how to do I managed to install this on my system.
 [THIS](https://youtu.be/eHBLDIwKMFE) video helped me in doing so!
 
-[Main-Screen] (https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-0/main%20screen.jpeg) for ubuntu!!
+[Main-Screen](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-0/main%20screen.jpeg) for ubuntu!!

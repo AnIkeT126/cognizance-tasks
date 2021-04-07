@@ -7,4 +7,4 @@ I did get sidetracked for a while with the *perceval backends* after reading [th
 Another error that I encountered was that my commits were being fetched but were not stored in a .**json** file for which I had to locate the path of a folder using *--git -path _location where I inteded to create the json file*.
 At the end I did manage to send Sir Perceval on a successful quest.
 
-To view **COMMITS** [CLICK]() here.
+To view **COMMITS** [CLICK](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-6/commits.json) here.

@@ -14,3 +14,7 @@ The first line of the input contains an integer x  (1 ≤ x ≤ 1 000 000) — T
 Print the minimum number of steps that the elephant needs to make to get from
 
 As I already knew about basic programming and c++ so I didn't had much trouble in doing this task. A simple dry run made it much easy for me.
+
+[**CODE**](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-1/CODE.cpp)
+
+[**OUTPUT**](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-1/output.PNG)

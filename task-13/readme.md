@@ -9,4 +9,6 @@ output for [**Q-2**](https://github.com/AnIkeT126/cognizance-tasks/blob/main/tas
 
 output for [**Q-3**](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-13/3-0ut.PNG)
 
-output for [**Q-5**]
+output for [**Q-4**](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-13/4-out.PNG)
+
+output for [**Q-5**](https://github.com/AnIkeT126/cognizance-tasks/blob/main/task-13/5-out.PNG)

@@ -46,6 +46,7 @@ body{
     border:1px solid #a33e03;
     padding: 10px 20px;
     margin-top: 25px;
+    border-width:3px;
 }
 #showcase .button:hover{
     background-color: rgb(214, 182, 139);

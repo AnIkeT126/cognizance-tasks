@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Count Down Timer</title>
+</head>
+<body>
+
+    <div>    
+        <h1>!!CHRISTMAS BELLS IN!!</h1>
+        <canvas id="canvas"></canvas>
+<script src="https://unpkg.com/rive-js@0.7.6/dist/rive.min.js"></script>
+<script>
+  // autoplays the first animation in the default artboard
+  new rive.Rive({
+    src: 'https://public.rive.app/community/runtime-files/179-342-cute-cake.riv',
+    canvas: document.getElementById('canvas'),
+    autoplay: true,
+    layout: new rive.Layout({fit: 'cover', alignment: 'center'}),
+  })
+</script>
+        <p id="demo"></p>
+    </div>
+    <script>
+        var countDownDate = new Date("Dec 25, 2021 12:00:00").getTime();
+
+
+var x = setInterval(function() {
+
+  
+  var now = new Date().getTime();
+
+  
+  var distance = countDownDate - now;
+
+  
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+        </script>
+
+</body>
+</html>

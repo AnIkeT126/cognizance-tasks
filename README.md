@@ -17,7 +17,13 @@ This is **ANIKET MISHRA**  a student of **COMPUTER SCIENCE AND ENGINEERING-CYBER
 |[task-12](https://github.com/AnIkeT126/cognizance-tasks/tree/main/task-12)|Bandit|Play a game and retrieve passwords for each level|**Completed**|
 |[task-13](https://github.com/AnIkeT126/cognizance-tasks/tree/main/task-13)|Project Euler|Coding Challenge|**Completed**|
 
+![image](https://user-images.githubusercontent.com/82095877/157040325-fcb0e630-583c-4fb2-af0c-4f4936364a27.png)
 
-![image](https://user-images.githubusercontent.com/82095877/157039495-7cc0b32f-6751-4758-a084-f420f7549ed3.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/82095877/157039611-372ff927-6780-4386-93fc-3324135a0ff4.png)
+
+![image](https://user-images.githubusercontent.com/82095877/157040418-b1be4345-f46a-49ae-9def-26f049b9ef00.png)
+
+![image](https://user-images.githubusercontent.com/82095877/157040727-c03e8096-4c0e-4382-8f2e-7da5ad415819.png)

@@ -16,3 +16,8 @@ This is **ANIKET MISHRA**  a student of **COMPUTER SCIENCE AND ENGINEERING-CYBER
 |[task-9](https://github.com/AnIkeT126/cognizance-tasks/tree/main/task-9)|Poster Designing|Design a poster using [canva](https://www.canva.com/)|**Completed**|
 |[task-12](https://github.com/AnIkeT126/cognizance-tasks/tree/main/task-12)|Bandit|Play a game and retrieve passwords for each level|**Completed**|
 |[task-13](https://github.com/AnIkeT126/cognizance-tasks/tree/main/task-13)|Project Euler|Coding Challenge|**Completed**|
+
+
+![image](https://user-images.githubusercontent.com/82095877/157039495-7cc0b32f-6751-4758-a084-f420f7549ed3.png)
+
+![image](https://user-images.githubusercontent.com/82095877/157039611-372ff927-6780-4386-93fc-3324135a0ff4.png)
